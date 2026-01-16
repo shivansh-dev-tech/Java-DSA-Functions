@@ -11,4 +11,5 @@ Java DSA practice repository focused on problem solving using functions and meth
 Functions/
  - ProductOfTwoNumbers.java
  - FactorialUsingFunction.java
+ - PrimeCheck.java
 
